@@ -1,9 +1,11 @@
 Package: md2pdf
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Generate customized pdf from md.
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Authors@R: person("Jinliang", "Yang", email = "yangjl0930@gmail.com", role = c("aut", "cre"))
+Description: Convert markdown files to pdf.
+Formatting manuscript following a given style is a pain.
+This `md2pdf R package` allow you to automatically generate publisher like documents with the minumum effort.
+Therefore, researchers can focus on thinking and writing in `markdown`.
+License: GPL (>= 2)
 LazyData: TRUE
